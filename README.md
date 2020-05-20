@@ -1,6 +1,8 @@
 # Discuz-x3.4-RCE
 利用修改UCenter后台getshell
 
+* 复现文章：http://www.svenbeast.com/post/discuzx34-hou-tai-xiu-gai-uc_center-pei-zhi-getshell/
+
 ## 生成code参数值
 
 ```
